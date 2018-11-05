@@ -1,0 +1,7 @@
+Flask==1.0.2
+numpy==1.15.4
+pandas==0.23.4
+sklearn==0.0
+matplotlib==3.0.1
+seaborn==0.9.0
+# flask run  o   python app.py
